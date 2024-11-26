@@ -26,3 +26,7 @@
 pip install requests keyboard pyperclip
 ```
 
+## 演示
+![mnggiflab-compressed-mnggiflab-from-video-to-gif-2024_11_26_23_16_02](https://github.com/user-attachments/assets/0e05af7b-08b7-4eb7-84d1-d92ca00128d1)
+
+
